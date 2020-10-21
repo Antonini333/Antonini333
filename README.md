@@ -4,7 +4,7 @@
 
    <h3 align="left">Feel free to:</h3>
 
-- 💬  Ask me about **HTML5, CSS3, JavaScript, Nodejs (Express + Sequelize), MongoDB, Mongoose, ReactJS, Sass...**
+- 💬  Ask me about **HTML5, CSS3, JavaScript, Gitflow, Nodejs (Express + Sequelize), MongoDB, Mongoose, Sass, ReactJS, Redux...**
 
 - 📥 Download any of my repo for academic or personal usage. We can also collaborate in a better project if you intend so!
 
