@@ -8,9 +8,9 @@
 
 - 💬  Ask me about **HTML5, CSS3, JavaScript, Gitflow, Nodejs (Express + Sequelize), MongoDB, Mongoose, Sass, ReactJS, Redux...**
 
-- 📥 Download any of my repo for academic or personal usage. We can also collaborate in a better project if you intend so!
+- 📥 Download any of my repositories for academic or personal usage. We can also collaborate in a better project if you intend so!
 
--  📫 Contact me **pabloantoninivazquez@gmail.com**
+-  📫 Email me at: **pabloantoninivazquez@gmail.com**
 
 <br>
 <p align="left">
