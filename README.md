@@ -1,12 +1,12 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Pablo Antonini!</h1>
-<h3 align="center">Junior Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <br>
 
    <h3 align="left">Feel free to:</h3>
 
-- 💬  Ask me about **HTML5, CSS3, JavaScript, Gitflow, Nodejs (Express + Sequelize), MongoDB, Mongoose, Sass, ReactJS, Redux...**
+- 💬  Ask me about **HTML5, CSS3, JavaScript, Nodejs (Express, Sequelize, MongoDB, Mongoose...) Sass, ReactJS, Redux, Docker, MERN Stack...**
 
 - 📥 Download any of my repositories for academic or personal usage. We can also collaborate in a better project if you intend so!
 
