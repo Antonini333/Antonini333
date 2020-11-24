@@ -6,9 +6,9 @@
 
    <h3 align="left">Feel free to:</h3>
 
-- 💬  Ask me about **HTML5, CSS3, JavaScript, Nodejs (Express, Sequelize, MongoDB, Mongoose...) Sass, ReactJS, Redux, Docker, MERN Stack...**
+- 💬  Ask me about **HTML5, CSS3, JavaScript, Nodejs (Express, Sequelize, MongoDB, Mongoose...) Sass, ReactJS, Redux, Docker, MERN Stack, PHP/Laravel, Wordpress...**
 
-- 📥 Download any of my repositories for academic or personal usage. We can also collaborate in a better project if you intend so!
+- 📥 Download any of my repositories for academic or personal usage. We can also collaborate in a new or existing project if you intend so!
 
 -  📫 Email me at: **pabloantoninivazquez@gmail.com**
 
