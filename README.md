@@ -6,7 +6,7 @@
 
    <h3 align="left">Feel free to:</h3>
 
-- 💬  Ask me about **HTML5, CSS3, JavaScript, Nodejs (Express, Sequelize, MongoDB, Mongoose...) Sass, ReactJS, Redux, Docker, MERN Stack, PHP/Laravel, Wordpress...**
+- 💬  Ask me about **JavaScript, Nodejs + Express, ORM'S (Sequelize, Mongoose, Eloquent...) React+Redux, MERN Stack, Laravel, Docker...**
 
 - 📥 Download any of my repositories for academic or personal usage. We can also collaborate in a new or existing project if you intend so!
 
